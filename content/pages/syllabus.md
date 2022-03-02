@@ -38,7 +38,7 @@ Course requirements include
 *   Regular reading of the assigned materials
 *   Active class participation and discussion
 
-Details about the written requirement can be found in the {{< resource_link 8ba32e71-f8ff-83d9-3de8-07430c931393 "assignments" >}} section.
+Details about the written requirement can be found in the {{% resource_link 8ba32e71-f8ff-83d9-3de8-07430c931393 "assignments" %}} section.
 
 Mid-term Exam
 -------------
@@ -105,7 +105,7 @@ Active Class Participation and Discussion
 Course Materials
 ----------------
 
-All reading assignments are listed in the {{< resource_link ba279ace-99f2-dd8a-0103-700bcbdec1f6 "readings" >}} section. Other readings may be assigned from other books during the term. Copies of the books are on reserve at Dewey library.
+All reading assignments are listed in the {{% resource_link ba279ace-99f2-dd8a-0103-700bcbdec1f6 "readings" %}} section. Other readings may be assigned from other books during the term. Copies of the books are on reserve at Dewey library.
 
 Calendar
 --------
