@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of required books for the course and the
+  schedule of readings by session.
 draft: false
 learning_resource_types:
 - Readings
